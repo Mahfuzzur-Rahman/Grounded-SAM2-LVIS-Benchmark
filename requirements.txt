@@ -1,0 +1,37 @@
+# ==============================================================================
+# Grounded-SAM 2 Hybrid Pipeline Dependencies
+# Author: Mahfuzzur Rahman
+# Course: COMP 6341 - Computer Vision (Concordia University)
+# ==============================================================================
+
+# --- Core Compute & Deep Learning ---
+torch
+torchvision
+torchaudio
+numpy
+pandas
+
+# --- Vision Processing & Visualization ---
+opencv-python
+pillow
+matplotlib
+supervision
+
+# --- Object Detection (Grounding DINO) & NLP ---
+# Note: transformers version is pinned to ensure compatibility with text-thresholding
+transformers==4.28.1
+addict
+yapf
+timm
+pyyaml
+tqdm
+
+# --- Segmentation & Evaluation (LVIS/COCO) ---
+# Required for RLE encoding and mAP calculation
+pycocotools
+scipy
+lvis
+
+# --- Model Optimization & Deployment ---
+onnx
+onnxruntime-gpu
