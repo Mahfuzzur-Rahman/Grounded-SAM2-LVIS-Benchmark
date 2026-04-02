@@ -27,7 +27,6 @@ The systems performance on the LVIS 16k subset demonstrates a significant advant
 
 * **Institution:** Concordia University
 * **Course:** COMP 6341 - Computer Vision
-* **Instructor:** [Insert Instructor Name]
 * **Author:** Mahfuzzur Rahman
 * **Student ID:** 40293992
 * **Date:** April 2026
