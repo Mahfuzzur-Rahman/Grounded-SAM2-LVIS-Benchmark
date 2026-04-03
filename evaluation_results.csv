@@ -1,0 +1,8 @@
+Metric,Value,Context
+Overall mAP,0.30060227847581894,IoU=0.5:0.95
+mAP_rare,0.0,Zero-Shot Success
+mAP_common,0.38796296296296295,Common Categories
+mAP_frequent,0.5138438724644938,Frequent Categories
+mIoU Proxy (AP75),0.2827621981319703,Geometric Accuracy
+Avg Latency (ms),39.65656757354736,RTX 4090
+Baseline Type,Mask R-CNN,Closed-Set
