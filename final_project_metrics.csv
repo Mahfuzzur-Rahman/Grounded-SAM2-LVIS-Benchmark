@@ -1,8 +1,0 @@
-Metric,Value,Context
-Overall mAP,0.183,IoU=0.50:0.95
-mAP_rare,0.186,Zero-Shot Success
-mAP_common,0.169,Common Categories
-mAP_frequent,0.197,Frequent Categories
-mIoU Proxy (AP75),0.194,Geometric Accuracy
-Avg Latency (ms),173.74,RTX 4090 Handshake
-
