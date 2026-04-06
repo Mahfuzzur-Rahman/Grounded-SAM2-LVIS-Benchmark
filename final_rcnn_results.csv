@@ -1,8 +1,0 @@
-Metric,Value,Context
-Overall mAP,6.79339959074727e-06,IoU=0.50:0.95
-mAP_rare,0.0,Zero-Shot Success
-mAP_common,0.0,Common Categories
-mAP_frequent,0.0,Frequent Categories
-mIoU Proxy (AP75),7.94762906912018e-06,Geometric Accuracy
-Avg Latency (ms),57.07193732261658,2x RTX 3090
-Baseline Type,Mask R-CNN,Closed-Set Comparison
